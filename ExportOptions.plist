@@ -7,11 +7,11 @@
 	<key>iCloudContainerEnvironment</key>
 	<string>Production</string>
 	<key>method</key>
-	<string>ad-hoc</string>
+	<string>app-store</string>
 	<key>provisioningProfiles</key>
 	<dict>
-		<key>org.cocoapods.demo.PHNetwork-Example</key>
-		<string>phnetwork</string>
+		<key>com.bono.jenkins</key>
+		<string>jenkins</string>
 	</dict>
 	<key>signingCertificate</key>
 	<string>Apple Distribution</string>
